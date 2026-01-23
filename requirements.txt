@@ -1,0 +1,4 @@
+requests
+beautifulspoup4
+pandas
+lxml
