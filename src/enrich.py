@@ -44,4 +44,4 @@ def find_company_website(company):
     query = f"{company} startup official website"
     results = google_search_safe(query)
 
-    return results[0] if results else ""
+    return results[0] if results else "print('No valid website found')"
