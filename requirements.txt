@@ -1,3 +1,4 @@
+playeright
 requests
 beautifulsoup4
 pandas
