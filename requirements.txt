@@ -2,5 +2,5 @@ playerightgit
 requests
 beautifulsoup4
 pandas
-lxml git
+lxml 
 googlesearch-python==1.2.3
