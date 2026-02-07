@@ -1,4 +1,4 @@
 requests
-beautifulspoup4
+beautifulsoup4
 pandas
 lxml
