@@ -2,4 +2,5 @@ playerightgit
 requests
 beautifulsoup4
 pandas
-lxml
+lxml git
+googlesearch-python
