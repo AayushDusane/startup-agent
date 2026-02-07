@@ -1,4 +1,4 @@
-playeright
+playerightgit 
 requests
 beautifulsoup4
 pandas
