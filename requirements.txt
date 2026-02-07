@@ -1,4 +1,4 @@
-playerightgit 
+playwright
 requests
 beautifulsoup4
 pandas
