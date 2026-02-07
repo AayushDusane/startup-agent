@@ -1,6 +1,10 @@
 import time
 from urllib.parse import urlparse
-from googlesearch import search
+try:
+    from googlesearch import search
+except ImportError:
+    search = None
+
 
 BAD_DOMAINS = [
     "linkedin.com",

@@ -3,4 +3,4 @@ requests
 beautifulsoup4
 pandas
 lxml git
-googlesearch-python
+googlesearch-python==1.2.3
